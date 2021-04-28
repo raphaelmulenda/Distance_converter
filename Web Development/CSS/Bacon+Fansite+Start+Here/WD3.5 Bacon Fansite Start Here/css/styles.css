@@ -1,0 +1,26 @@
+/*****************************Tag Selector ******************/
+
+h1 {color:#1f6f8b;
+    font-size: 4em;}
+
+img:hover{
+background-color:#f0a500;
+}
+
+/************************ Class Selector *****************/
+/* You can use the same class name many time in the css code and the change will take lace */
+.bacon {
+background-color:#ec4646;
+}
+.broccoli{
+  background-color:#9dad7f;
+  width: 10.5%;
+  height: auto;
+  }
+
+/************************ ID Selector *****************/
+/* we can use one id name in the code and duplication of the same id name will create error */
+
+#heading{
+color:#03506f;
+}
